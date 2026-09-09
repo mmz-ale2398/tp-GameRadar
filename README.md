@@ -1,9 +1,9 @@
 # tp-menu_list_games
 
-##tp del menu de videojuegos.
-comision 2.
+tp de sistema de recomendación de videojuegos.
+comision 2
 
-##grupo del tp de Estructura de Datos
+Grupo del tp de Estructura de Datos
 alumnos:
 *Mauro Bordon
 *Federico Rodriguez Santos
