@@ -1,6 +1,5 @@
-# tp-menu_list_games
+# tp-Sistema de recomendación de videojuegos.
 
-tp de sistema de recomendación de videojuegos.
 comision 2
 
 Grupo del tp de Estructura de Datos
