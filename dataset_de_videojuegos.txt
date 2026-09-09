@@ -1,0 +1,19 @@
+Nombre, Genero, Año
+Pac-Man, Arcade / Maze, 1980
+Tetris, Puzzle, 1984
+Super Mario Bros., Plataformas, 1985
+Street Fighter II, Lucha, 1991
+Doom, Shooter en primera persona (FPS), 1993
+The Legend of Zelda: Ocarina of Time, Acción / Aventura, 1998
+Half-Life 2, Shooter en primera persona (FPS), 2004
+Resident Evil 4, Survival Horror, 2005
+Minecraft, Sandbox, 2011
+Grand Theft Auto V, Acción / Aventura, 2013
+The Witcher 3: Wild Hunt, Rol (RPG), 2015
+Stardew Valley, Simulación, 2016
+Overwatch, Hero Shooter, 2016
+Hollow Knight, Metroidvania, 2017
+Hades, Roguelike, 2020
+Animal Crossing: New Horizons, Simulación de vida, 2020
+Elden Ring, Action RPG, 2022
+Baldur's Gate 3, Rol (RPG), 2023
