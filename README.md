@@ -1,3 +1,16 @@
+#TP sistema de recomendación de videojuegos
+
+Materia: Estructura de Datos
+Grupo: 23
+comision: 2 
+
+alumnos:
+-Federico Rodríguez Santos 
+-Mauro Bordón DNI: 44968633
+-Alejandro Mollo DNI: 44709610
+
+Profesor: Maximiliano zorzoli
+
 # Game Radar
 
 Sistema de recomendación de videojuegos que funciona íntegramente desde la
